@@ -1,4 +1,4 @@
-name: Semgrep
+name: Semgrep--1
 
 on:
   # Scan changed files in PRs (diff-aware scanning):
